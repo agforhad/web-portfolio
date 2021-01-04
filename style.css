@@ -14,3 +14,9 @@ h1{
     width: 100%;
     float: right;
 }
+.top-banner{
+    background-image: url("images/top-banner.png");
+}
+section{
+    height: 500px;
+}
